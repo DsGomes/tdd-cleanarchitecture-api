@@ -4,7 +4,7 @@
   "description": "Nodejs API to study test driven development and clean architecture",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watchAll",
     "test:staged": "jest"
   },
   "standard": {
